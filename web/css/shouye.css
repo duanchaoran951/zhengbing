@@ -1,5 +1,6 @@
 body{
      margin-top: 0;
+
      height: 900px;
  }
 .zhengti
@@ -36,14 +37,14 @@ body{
     text-decoration: none;
     margin-left: 56px;
 }
-a:link
-{
-    color: #FFFFFF;
-}
-a:active
-{
-    color: yellow;
-}
+/*a:link*/
+/*{*/
+    /*color: #FFFFFF;*/
+/*}*/
+/*a:active*/
+/*{*/
+    /*color: yellow;*/
+/*}*/
 a:hover
 {
 
@@ -53,6 +54,14 @@ a:hover
 .s1
 {
     padding: 16px 16px;
+}
+.ywqn img
+{
+    position: relative;
+    width: 1059px;
+    height: 250px;
+    left: 20px;
+    top: 155px;
 }
 .bingyidengji
 {
@@ -68,15 +77,7 @@ a:hover
     text-decoration: none;
     padding: 16px 16px;
 }
-#myCarousel
-{
-    position: relative;
-    left: 48px;
-    top: 157px;
-    width: 996px;
-    height: 563px;
 
-}
 .jv
 {
     position: relative;
